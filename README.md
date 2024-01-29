@@ -18,7 +18,7 @@ Ensure you have the following prerequisites before running the app:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/omar0ali/your-app.git
+git clone https://github.com/omar0ali/android-lifecycle-monitor.git
 ```
 
 2. Open Project in Android Studio:
