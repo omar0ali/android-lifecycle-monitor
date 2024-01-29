@@ -34,4 +34,4 @@ git clone https://github.com/omar0ali/your-app.git
 
 ## Licence
 
-This project is licensed under the MIT License - see the [MIT Licence](LICENCE.md) file for details.
+This project is licensed under the MIT License - see the [MIT License](LICENSE.md) file for details.
