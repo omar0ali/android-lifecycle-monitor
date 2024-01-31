@@ -8,7 +8,7 @@ This Android simple app serves as a tool to observe the execution times of key l
 
 Ensure you have the following prerequisites before running the app:
 
-- Android Studio installed on your machine.
+- Android Studio IDE installed on your machine.
 - An Android device or emulator.
 
 > Make sure to `Clean Project` and or `Rebuild Project`, also using Android Gradle Plugin Version `8.2.1`
@@ -18,7 +18,7 @@ Ensure you have the following prerequisites before running the app:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/omar0ali/your-app.git
+git clone https://github.com/omar0ali/android-lifecycle-monitor.git
 ```
 
 2. Open Project in Android Studio:
@@ -34,4 +34,4 @@ git clone https://github.com/omar0ali/your-app.git
 
 ## Licence
 
-This project is licensed under the MIT License - see the [MIT License](LICENSE.md) file for details.
+This project is licensed under the MIT License: [MIT License](LICENSE.md)
